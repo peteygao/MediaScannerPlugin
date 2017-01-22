@@ -1,3 +1,7 @@
+DEPRECATION WARNING
+===================
+This plugin is UNMAINTAINED and has not been updated since 2013. Please do not ask for help in the Issues section as I will not be able to help you!
+
 MediaScannerPlugin
 ============
 
