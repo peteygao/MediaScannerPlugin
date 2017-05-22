@@ -31,7 +31,7 @@ function onDeviceReady()
         },
         function(err){
             console.log(err);
-        },
+        }
     );
 }
 ```
